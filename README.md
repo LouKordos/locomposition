@@ -2,7 +2,7 @@
 
 ### Terrain-Adaptive Energy-Efficient Quadruped Locomotion without Gait Priors
 
-[Project page](https://sites.google.com/view/locomposition) · [Paper](https://arxiv.org/abs/2606.15896) · [Project video](https://youtu.be/byAA07ge4O0)
+[Project page](https://www.loukaskordos.de/publications/locomposition/) · [Paper](https://arxiv.org/abs/2606.15896) · [Project video](https://youtu.be/Os94whykOB0)
 
 ![LoComposition separates task specification, operational limits, gait preference, and terrain adaptation.](assets/locomposition-overview.png)
 
@@ -41,7 +41,7 @@ Against a conventional complex-reward locomotion baseline, LoComposition provide
 
 ![Cost of Transport and learned contact patterns.](assets/cot-and-contact-patterns.png)
 
-See the paper for more details. The [project page](https://sites.google.com/view/locomposition) and [project video](https://youtu.be/byAA07ge4O0) are the best place to watch the full comparison.
+See the paper for more details. The [project page](https://www.loukaskordos.de/publications/locomposition/) and [project video](https://youtu.be/Os94whykOB0) are the best place to watch the full comparison.
 
 ## Installation
 

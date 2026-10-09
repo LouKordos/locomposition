@@ -19,7 +19,7 @@ authors:
   - given-names: Georg
     family-names: Martius
 repository-code: https://github.com/LouKordos/LoComposition
-url: https://sites.google.com/view/locomposition
+url: https://www.loukaskordos.de/publications/locomposition/
 preferred-citation:
   type: article
   title: "LoComposition: Terrain-Adaptive Energy-Efficient Quadruped Locomotion without Gait Priors"
